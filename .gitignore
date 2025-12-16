@@ -1,0 +1,12 @@
+# 忽略数据文件夹
+checkpoints/
+analysis_results/
+data/jaffe/data/
+data/cifar10/cifar-10-batches-py/
+data/dirtyMnist/data/
+data/FashionMnist/FashionMNIST/
+data/jaffe/data/
+figures/
+estimate/
+data/cifar10/cifar-10-python.tar.gz
+
